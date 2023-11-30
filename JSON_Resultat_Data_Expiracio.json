@@ -3,353 +3,404 @@
         "Nom": "The Legend of Zelda: Breath of the Wild",
         "Desenvolupador": "Nintendo",
         "Plataforma": "Nintendo Switch",
-        "Llançament": "2017-03-03",
-        "id": 1
+        "Llan\u00e7ament": "2017-03-03",
+        "id": 1,
+        "data_expiracio": "2028-11-29"
     },
     "1": {
         "Nom": "The Witcher 3: Wild Hunt",
         "Desenvolupador": "CD Projekt Red",
         "Plataforma": "PC, PlayStation 4, Xbox One",
-        "Llançament": "2015-05-19",
-        "id": 2
+        "Llan\u00e7ament": "2015-05-19",
+        "id": 2,
+        "data_expiracio": "2028-11-29"
     },
     "2": {
         "Nom": "Red Dead Redemption 2",
         "Desenvolupador": "Rockstar Games",
         "Plataforma": "PlayStation 4, Xbox One, PC",
-        "Llançament": "2018-10-26",
-        "id": 3
+        "Llan\u00e7ament": "2018-10-26",
+        "id": 3,
+        "data_expiracio": "2028-11-29"
     },
     "3": {
         "Nom": "Super Mario Odyssey",
         "Desenvolupador": "Nintendo",
         "Plataforma": "Nintendo Switch",
-        "Llançament": "2017-10-27",
-        "id": 4
+        "Llan\u00e7ament": "2017-10-27",
+        "id": 4,
+        "data_expiracio": "2028-11-29"
     },
     "4": {
         "Nom": "Cyberpunk 2077",
         "Desenvolupador": "CD Projekt Red",
         "Plataforma": "PC, PlayStation 4, Xbox One",
-        "Llançament": "2020-12-10",
-        "id": 5
+        "Llan\u00e7ament": "2020-12-10",
+        "id": 5,
+        "data_expiracio": "2028-11-29"
     },
     "5": {
         "Nom": "God of War",
         "Desenvolupador": "Santa Monica Studio",
         "Plataforma": "PlayStation 4, PlayStation 5",
-        "Llançament": "2018-04-20",
-        "id": 6
+        "Llan\u00e7ament": "2018-04-20",
+        "id": 6,
+        "data_expiracio": "2028-11-29"
     },
     "6": {
         "Nom": "Horizon Zero Dawn",
         "Desenvolupador": "Guerrilla Games",
         "Plataforma": "PlayStation 4, PC",
-        "Llançament": "2017-02-28",
-        "id": 7
+        "Llan\u00e7ament": "2017-02-28",
+        "id": 7,
+        "data_expiracio": "2028-11-29"
     },
     "7": {
         "Nom": "The Elder Scrolls V: Skyrim",
         "Desenvolupador": "Bethesda Game Studios",
         "Plataforma": "PC, PlayStation 3, Xbox 360",
-        "Llançament": "2011-11-11",
-        "id": 8
+        "Llan\u00e7ament": "2011-11-11",
+        "id": 8,
+        "data_expiracio": "2028-11-29"
     },
     "8": {
         "Nom": "Final Fantasy VII Remake",
         "Desenvolupador": "Square Enix",
         "Plataforma": "PlayStation 4",
-        "Llançament": "2020-04-10",
-        "id": 9
+        "Llan\u00e7ament": "2020-04-10",
+        "id": 9,
+        "data_expiracio": "2028-11-29"
     },
     "9": {
         "Nom": "Minecraft",
         "Desenvolupador": "Mojang",
         "Plataforma": "PC, PlayStation, Xbox, Switch, etc.",
-        "Llançament": "2011-11-18",
-        "id": 10
+        "Llan\u00e7ament": "2011-11-18",
+        "id": 10,
+        "data_expiracio": "2028-11-29"
     },
     "10": {
         "Nom": "The Last of Us Part II",
         "Desenvolupador": "Naughty Dog",
         "Plataforma": "PlayStation 4, PlayStation 5",
-        "Llançament": "2020-06-19",
-        "id": 11
+        "Llan\u00e7ament": "2020-06-19",
+        "id": 11,
+        "data_expiracio": "2028-11-29"
     },
     "11": {
         "Nom": "Genshin Impact",
         "Desenvolupador": "miHoYo",
         "Plataforma": "PC, PlayStation, Switch, iOS, Android",
-        "Llançament": "2020-09-28",
-        "id": 12
+        "Llan\u00e7ament": "2020-09-28",
+        "id": 12,
+        "data_expiracio": "2028-11-29"
     },
     "12": {
         "Nom": "Assassin's Creed Valhalla",
         "Desenvolupador": "Ubisoft",
-        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "Llançament": "2020-11-10",
-        "id": 13
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2020-11-10",
+        "id": 13,
+        "data_expiracio": "2028-11-29"
     },
     "13": {
-        "Nom": "Pokémon FireRed / LeafGreen",
+        "Nom": "Pok\u00e9mon FireRed \/ LeafGreen",
         "Desenvolupador": "Game Freak",
         "Plataforma": "Game Boy Advance",
-        "Llançament": "2004-01-29",
-        "id": 14
+        "Llan\u00e7ament": "2004-01-29",
+        "id": 14,
+        "data_expiracio": "2028-11-29"
     },
     "14": {
         "Nom": "Animal Crossing: New Horizons",
         "Desenvolupador": "Nintendo",
         "Plataforma": "Nintendo Switch",
-        "Llançament": "2020-03-20",
-        "id": 15
+        "Llan\u00e7ament": "2020-03-20",
+        "id": 15,
+        "data_expiracio": "2028-11-29"
     },
     "15": {
         "Nom": "Demon's Souls",
-        "Desenvolupador": "Bluepoint Games / SIE Japan Studio",
+        "Desenvolupador": "Bluepoint Games \/ SIE Japan Studio",
         "Plataforma": "PlayStation 5",
-        "Llançament": "2020-11-12",
-        "id": 16
+        "Llan\u00e7ament": "2020-11-12",
+        "id": 16,
+        "data_expiracio": "2028-11-29"
     },
     "16": {
         "Nom": "Call of Duty: Modern Warfare (2019)",
         "Desenvolupador": "Infinity Ward",
         "Plataforma": "PC, PlayStation 4, Xbox One",
-        "Llançament": "2019-10-25",
-        "id": 17
+        "Llan\u00e7ament": "2019-10-25",
+        "id": 17,
+        "data_expiracio": "2028-11-29"
     },
     "17": {
         "Nom": "Marvel's Spider-Man: Miles Morales",
         "Desenvolupador": "Insomniac Games",
         "Plataforma": "PlayStation 4, PlayStation 5",
-        "Llançament": "2020-11-12",
-        "id": 18
+        "Llan\u00e7ament": "2020-11-12",
+        "id": 18,
+        "data_expiracio": "2028-11-29"
     },
     "18": {
         "Nom": "Hades",
         "Desenvolupador": "Supergiant Games",
         "Plataforma": "PC, Switch",
-        "Llançament": "2020-09-17",
-        "id": 19
+        "Llan\u00e7ament": "2020-09-17",
+        "id": 19,
+        "data_expiracio": "2028-11-29"
     },
     "19": {
         "Nom": "Death Stranding",
         "Desenvolupador": "Kojima Productions",
         "Plataforma": "PlayStation 4, PC",
-        "Llançament": "2019-11-08",
-        "id": 20
+        "Llan\u00e7ament": "2019-11-08",
+        "id": 20,
+        "data_expiracio": "2028-11-29"
     },
     "20": {
         "Nom": "Stardew Valley",
         "Desenvolupador": "ConcernedApe",
         "Plataforma": "PC, PlayStation, Xbox, Switch, iOS, Android",
-        "Llançament": "2016-02-26",
-        "id": 21
+        "Llan\u00e7ament": "2016-02-26",
+        "id": 21,
+        "data_expiracio": "2028-11-29"
     },
     "21": {
         "Nom": "Ghost of Tsushima",
         "Desenvolupador": "Sucker Punch Productions",
         "Plataforma": "PlayStation 4",
-        "Llançament": "2020-07-17",
-        "id": 22
+        "Llan\u00e7ament": "2020-07-17",
+        "id": 22,
+        "data_expiracio": "2028-11-29"
     },
     "22": {
         "Nom": "Resident Evil Village",
         "Desenvolupador": "Capcom",
-        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "Llançament": "2021-05-07",
-        "id": 23
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-05-07",
+        "id": 23,
+        "data_expiracio": "2028-11-29"
     },
     "23": {
         "Nom": "Sekiro: Shadows Die Twice",
         "Desenvolupador": "FromSoftware",
         "Plataforma": "PC, PlayStation 4, Xbox One",
-        "Llançament": "2019-03-22",
-        "id": 24
+        "Llan\u00e7ament": "2019-03-22",
+        "id": 24,
+        "data_expiracio": "2028-11-29"
     },
     "24": {
         "Nom": "DOOM Eternal",
         "Desenvolupador": "id Software",
         "Plataforma": "PC, PlayStation 4, Xbox One",
-        "Llançament": "2020-03-20",
-        "id": 25
+        "Llan\u00e7ament": "2020-03-20",
+        "id": 25,
+        "data_expiracio": "2028-11-29"
     },
     "25": {
         "Nom": "Ratchet & Clank: Rift Apart",
         "Desenvolupador": "Insomniac Games",
         "Plataforma": "PlayStation 5",
-        "Llançament": "2021-06-11",
-        "id": 26
+        "Llan\u00e7ament": "2021-06-11",
+        "id": 26,
+        "data_expiracio": "2028-11-29"
     },
     "26": {
         "Nom": "It Takes Two",
         "Desenvolupador": "Hazelight Studios",
-        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "Llançament": "2021-03-26",
-        "id": 27
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-03-26",
+        "id": 27,
+        "data_expiracio": "2028-11-29"
     },
     "27": {
-        "Nom": "Pokémon Diamond/Pearl",
+        "Nom": "Pok\u00e9mon Diamond\/Pearl",
         "Desenvolupador": "Game Freak",
         "Plataforma": "Nintendo DS",
-        "Llançament": "2006-09-28",
-        "id": 28
+        "Llan\u00e7ament": "2006-09-28",
+        "id": 28,
+        "data_expiracio": "2028-11-29"
     },
     "28": {
         "Nom": "Hitman 3",
         "Desenvolupador": "IO Interactive",
-        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "Llançament": "2021-01-20",
-        "id": 29
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-01-20",
+        "id": 29,
+        "data_expiracio": "2028-11-29"
     },
     "29": {
         "Nom": "Persona 5 Royal",
         "Desenvolupador": "Atlus",
         "Plataforma": "PlayStation 4",
-        "Llançament": "2020-03-31",
-        "id": 30
+        "Llan\u00e7ament": "2020-03-31",
+        "id": 30,
+        "data_expiracio": "2028-11-29"
     },
     "30": {
         "Nom": "Metroid Dread",
         "Desenvolupador": "Nintendo",
         "Plataforma": "Nintendo Switch",
-        "Llançament": "2021-10-08",
-        "id": 31
+        "Llan\u00e7ament": "2021-10-08",
+        "id": 31,
+        "data_expiracio": "2028-11-29"
     },
     "31": {
         "Nom": "Monster Hunter Rise",
         "Desenvolupador": "Capcom",
         "Plataforma": "Nintendo Switch, PC",
-        "Llançament": "2021-03-26",
-        "id": 32
+        "Llan\u00e7ament": "2021-03-26",
+        "id": 32,
+        "data_expiracio": "2028-11-29"
     },
     "32": {
         "Nom": "Little Nightmares II",
         "Desenvolupador": "Tarsier Studios",
         "Plataforma": "PC, PlayStation, Xbox, Switch",
-        "Llançament": "2021-02-11",
-        "id": 33
+        "Llan\u00e7ament": "2021-02-11",
+        "id": 33,
+        "data_expiracio": "2028-11-29"
     },
     "33": {
         "Nom": "Outriders",
         "Desenvolupador": "People Can Fly",
-        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "Llançament": "2021-04-01",
-        "id": 34
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-04-01",
+        "id": 34,
+        "data_expiracio": "2028-11-29"
     },
     "34": {
         "Nom": "Kena: Bridge of Spirits",
         "Desenvolupador": "Ember Lab",
         "Plataforma": "PC, PlayStation 4, PlayStation 5",
-        "Llançament": "2021-09-21",
-        "id": 35
+        "Llan\u00e7ament": "2021-09-21",
+        "id": 35,
+        "data_expiracio": "2028-11-29"
     },
     "35": {
         "Nom": "Mass Effect Legendary Edition",
         "Desenvolupador": "BioWare",
         "Plataforma": "PC, PlayStation 4, Xbox One",
-        "Llançament": "2021-05-14",
-        "id": 36
+        "Llan\u00e7ament": "2021-05-14",
+        "id": 36,
+        "data_expiracio": "2028-11-29"
     },
     "36": {
         "Nom": "Chicory: A Colorful Tale",
         "Desenvolupador": "Greg Lobanov",
         "Plataforma": "PC, PlayStation, Switch",
-        "Llançament": "2021-06-10",
-        "id": 37
+        "Llan\u00e7ament": "2021-06-10",
+        "id": 37,
+        "data_expiracio": "2028-11-29"
     },
     "37": {
         "Nom": "Scarlet Nexus",
         "Desenvolupador": "Bandai Namco Entertainment",
-        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "Llançament": "2021-06-25",
-        "id": 38
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-06-25",
+        "id": 38,
+        "data_expiracio": "2028-11-29"
     },
     "38": {
-        "Nom": "New Pokémon Snap",
+        "Nom": "New Pok\u00e9mon Snap",
         "Desenvolupador": "Bandai Namco Studios",
         "Plataforma": "Nintendo Switch",
-        "Llançament": "2021-04-30",
-        "id": 39
+        "Llan\u00e7ament": "2021-04-30",
+        "id": 39,
+        "data_expiracio": "2028-11-29"
     },
     "39": {
         "Nom": "Back 4 Blood",
         "Desenvolupador": "Turtle Rock Studios",
-        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "Llançament": "2021-10-12",
-        "id": 40
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-10-12",
+        "id": 40,
+        "data_expiracio": "2028-11-29"
     },
     "40": {
         "Nom": "NieR Replicant ver.1.22474487139...",
         "Desenvolupador": "Toylogic",
         "Plataforma": "PC, PlayStation 4, Xbox One",
-        "Llançament": "2021-04-23",
-        "id": 41
+        "Llan\u00e7ament": "2021-04-23",
+        "id": 41,
+        "data_expiracio": "2028-11-29"
     },
     "41": {
-        "Nom": "Pokémon Black/White",
+        "Nom": "Pok\u00e9mon Black\/White",
         "Desenvolupador": "Game Freak",
         "Plataforma": "Nintendo DS",
-        "Llançament": "2010-03-04",
-        "id": 42
+        "Llan\u00e7ament": "2010-03-04",
+        "id": 42,
+        "data_expiracio": "2028-11-29"
     },
     "42": {
         "Nom": "Riders Republic",
         "Desenvolupador": "Ubisoft Annecy",
-        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "Llançament": "2021-10-28",
-        "id": 43
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-10-28",
+        "id": 43,
+        "data_expiracio": "2028-11-29"
     },
     "43": {
         "Nom": "The Medium",
         "Desenvolupador": "Bloober Team",
-        "Plataforma": "PC, Xbox Series X/S",
-        "Llançament": "2021-01-28",
-        "id": 44
+        "Plataforma": "PC, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-01-28",
+        "id": 44,
+        "data_expiracio": "2028-11-29"
     },
     "44": {
         "Nom": "Resident Evil 3 Remake",
         "Desenvolupador": "Capcom",
         "Plataforma": "PC, PlayStation 4, Xbox One",
-        "Llançament": "2020-04-03",
-        "id": 45
+        "Llan\u00e7ament": "2020-04-03",
+        "id": 45,
+        "data_expiracio": "2028-11-29"
     },
     "45": {
         "Nom": "Bravely Default II",
-        "Desenvolupador": "Silicon Studio / Claytechworks",
+        "Desenvolupador": "Silicon Studio \/ Claytechworks",
         "Plataforma": "Nintendo Switch",
-        "Llançament": "2021-02-26",
-        "id": 46
+        "Llan\u00e7ament": "2021-02-26",
+        "id": 46,
+        "data_expiracio": "2028-11-29"
     },
     "46": {
         "Nom": "Age of Empires IV",
         "Desenvolupador": "Relic Entertainment",
         "Plataforma": "PC",
-        "Llançament": "2021-10-28",
-        "id": 47
+        "Llan\u00e7ament": "2021-10-28",
+        "id": 47,
+        "data_expiracio": "2028-11-29"
     },
     "47": {
         "Nom": "Halo Infinite",
         "Desenvolupador": "343 Industries",
-        "Plataforma": "PC, Xbox Series X/S",
-        "Llançament": "2021-12-08",
-        "id": 48
+        "Plataforma": "PC, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-12-08",
+        "id": 48,
+        "data_expiracio": "2028-11-29"
     },
     "48": {
         "Nom": "Far Cry 6",
         "Desenvolupador": "Ubisoft",
-        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
-        "Llançament": "2021-10-07",
-        "id": 49
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-10-07",
+        "id": 49,
+        "data_expiracio": "2028-11-29"
     },
     "49": {
         "Nom": "Deathloop",
         "Desenvolupador": "Arkane Studios",
         "Plataforma": "PC, PlayStation 5",
-        "Llançament": "2021-09-14",
-        "id": 50
+        "Llan\u00e7ament": "2021-09-14",
+        "id": 50,
+        "data_expiracio": "2028-11-29"
     },
     "videojocs": {
-        "id": 51
+        "id": 51,
+        "data_expiracio": "2028-11-29"
     }
 }
