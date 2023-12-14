@@ -6,5 +6,7 @@ include('funcions.php');
 // Carga los datos
 $dades = cargarDatos();
 // Muestra la tabla si los datos se han cargado correctamente
-eliminar_por_fecha('2017-01-01', '2020-12-31', $dades);
+eliminaVideojocs('2017-01-01', '2020-12-31');
+$dades = cargarDatos("JSON_Resultat_Eliminar.json");
+mostrarTabla($dades);
 ?>

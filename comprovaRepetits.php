@@ -7,6 +7,5 @@ include('funcions.php');
 // Carga los datos
 $dades = cargarDatos();
 // Muestra la tabla si los datos se han cargado correctamente
-generarCodiUnic($dades);
-assignarCodi($dades);
+comprovaRepetits($dades);
 ?>

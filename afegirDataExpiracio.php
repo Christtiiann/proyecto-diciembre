@@ -12,8 +12,8 @@ if ($dades !== null) {
     guardarDatosEnJSON($dadesConFechaExpiracion, 'JSON_Resultat_Data_Expiracio.json');
 
     // Muestra la tabla con los datos originales
-    mostrarTabla($dades);
-
+    $dades = cargarDatos("JSON_Resultat_Data_Expiracio.json");
+    mostrarExpiracio($dades);
     // Muestra la tabla con los datos actualizados (opcional)
     // mostrarTabla($dadesConFechaExpiracion);
 }

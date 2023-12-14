@@ -1,0 +1,149 @@
+{
+    "0": {
+        "Nom": "The Legend of Zelda: Breath of the Wild",
+        "Desenvolupador": "Nintendo",
+        "Plataforma": "Nintendo Switch",
+        "Llançament": "2017-03-03",
+        "id": 1
+    },
+    "2": {
+        "Nom": "Red Dead Redemption 2",
+        "Desenvolupador": "Rockstar Games",
+        "Plataforma": "PlayStation 4, Xbox One, PC",
+        "Llançament": "2018-10-26",
+        "id": 3
+    },
+    "3": {
+        "Nom": "Super Mario Odyssey",
+        "Desenvolupador": "Nintendo",
+        "Plataforma": "Nintendo Switch",
+        "Llançament": "2017-10-27",
+        "id": 4
+    },
+    "4": {
+        "Nom": "Cyberpunk 2077",
+        "Desenvolupador": "CD Projekt Red",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "Llançament": "2020-12-10",
+        "id": 5
+    },
+    "5": {
+        "Nom": "God of War",
+        "Desenvolupador": "Santa Monica Studio",
+        "Plataforma": "PlayStation 4, PlayStation 5",
+        "Llançament": "2018-04-20",
+        "id": 6
+    },
+    "6": {
+        "Nom": "Horizon Zero Dawn",
+        "Desenvolupador": "Guerrilla Games",
+        "Plataforma": "PlayStation 4, PC",
+        "Llançament": "2017-02-28",
+        "id": 7
+    },
+    "8": {
+        "Nom": "Final Fantasy VII Remake",
+        "Desenvolupador": "Square Enix",
+        "Plataforma": "PlayStation 4",
+        "Llançament": "2020-04-10",
+        "id": 9
+    },
+    "10": {
+        "Nom": "The Last of Us Part II",
+        "Desenvolupador": "Naughty Dog",
+        "Plataforma": "PlayStation 4, PlayStation 5",
+        "Llançament": "2020-06-19",
+        "id": 11
+    },
+    "11": {
+        "Nom": "Genshin Impact",
+        "Desenvolupador": "miHoYo",
+        "Plataforma": "PC, PlayStation, Switch, iOS, Android",
+        "Llançament": "2020-09-28",
+        "id": 12
+    },
+    "12": {
+        "Nom": "Assassin's Creed Valhalla",
+        "Desenvolupador": "Ubisoft",
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+        "Llançament": "2020-11-10",
+        "id": 13
+    },
+    "14": {
+        "Nom": "Animal Crossing: New Horizons",
+        "Desenvolupador": "Nintendo",
+        "Plataforma": "Nintendo Switch",
+        "Llançament": "2020-03-20",
+        "id": 15
+    },
+    "15": {
+        "Nom": "Demon's Souls",
+        "Desenvolupador": "Bluepoint Games / SIE Japan Studio",
+        "Plataforma": "PlayStation 5",
+        "Llançament": "2020-11-12",
+        "id": 16
+    },
+    "16": {
+        "Nom": "Call of Duty: Modern Warfare (2019)",
+        "Desenvolupador": "Infinity Ward",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "Llançament": "2019-10-25",
+        "id": 17
+    },
+    "17": {
+        "Nom": "Marvel's Spider-Man: Miles Morales",
+        "Desenvolupador": "Insomniac Games",
+        "Plataforma": "PlayStation 4, PlayStation 5",
+        "Llançament": "2020-11-12",
+        "id": 18
+    },
+    "18": {
+        "Nom": "Hades",
+        "Desenvolupador": "Supergiant Games",
+        "Plataforma": "PC, Switch",
+        "Llançament": "2020-09-17",
+        "id": 19
+    },
+    "19": {
+        "Nom": "Death Stranding",
+        "Desenvolupador": "Kojima Productions",
+        "Plataforma": "PlayStation 4, PC",
+        "Llançament": "2019-11-08",
+        "id": 20
+    },
+    "21": {
+        "Nom": "Ghost of Tsushima",
+        "Desenvolupador": "Sucker Punch Productions",
+        "Plataforma": "PlayStation 4",
+        "Llançament": "2020-07-17",
+        "id": 22
+    },
+    "23": {
+        "Nom": "Sekiro: Shadows Die Twice",
+        "Desenvolupador": "FromSoftware",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "Llançament": "2019-03-22",
+        "id": 24
+    },
+    "24": {
+        "Nom": "DOOM Eternal",
+        "Desenvolupador": "id Software",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "Llançament": "2020-03-20",
+        "id": 25
+    },
+    "29": {
+        "Nom": "Persona 5 Royal",
+        "Desenvolupador": "Atlus",
+        "Plataforma": "PlayStation 4",
+        "Llançament": "2020-03-31",
+        "id": 30
+    },
+    "44": {
+        "Nom": "Resident Evil 3 Remake",
+        "Desenvolupador": "Capcom",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "Llançament": "2020-04-03",
+        "id": 45
+    }
+}
